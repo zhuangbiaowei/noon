@@ -26,10 +26,10 @@
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monsterkodi/noon"
+    "url": "https://github.com/zhuangbiaowei/noon"
   },
   "bugs": {
-    "url": "https://github.com/monsterkodi/noon/issues"
+    "url": "https://github.com/zhuangbiaowei/noon/issues"
   },
   "bin": {
     "noon": "./bin/noon"
